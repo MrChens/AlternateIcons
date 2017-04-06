@@ -1,6 +1,7 @@
 # AlternateIcons
 这个没有什么难度的。主要就是在info.plist中配置好参数，然后把图片文件在根目录中然后引入进来就行。一些相关的
             文档描述https://developer.apple.com/reference/uikit/uiapplication/2806818-setalternateiconname
+            
             <?xml version="1.0" encoding="UTF-8"?>
             <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
             <plist version="1.0">
